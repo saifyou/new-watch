@@ -79,7 +79,5 @@ function totalCost(product){
     } else {
     localStorage.setItem("totalCost", product.price);
 } 
-
-
 }
 onLoadCartNumbers();
